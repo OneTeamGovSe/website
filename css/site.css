@@ -24,3 +24,7 @@ h2 {
 h3:not(:first-child) {
   margin-top:1em;
 }
+
+#kit  {
+  margin-top: 2em;
+}
